@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AlgorithmicToolbox</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Week1/APlusB.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week1_programming_challenges/1_sum_of_two_digits/APlusB.java</location>
+		</link>
+		<link>
+			<name>src/Week1/MaxPairwiseProduct.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java</location>
+		</link>
+		<link>
+			<name>src/Week2/Factorial.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/eclipse-workspace/AlgorithmicToolbox/src/Week2/Factrorial.java</location>
+		</link>
+		<link>
+			<name>src/Week2/Fibonacci.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/1_fibonacci_number/Fibonacci.java</location>
+		</link>
+		<link>
+			<name>src/Week2/FibonacciHuge.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java</location>
+		</link>
+		<link>
+			<name>src/Week2/FibonacciLastDigit.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit.java</location>
+		</link>
+		<link>
+			<name>src/Week2/FibonacciPartialSum.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java</location>
+		</link>
+		<link>
+			<name>src/Week2/FibonacciSumLastDigit.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java</location>
+		</link>
+		<link>
+			<name>src/Week2/FibonacciSumSquares.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java</location>
+		</link>
+		<link>
+			<name>src/Week2/GCD.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java</location>
+		</link>
+		<link>
+			<name>src/Week2/LCM.java</name>
+			<type>1</type>
+			<location>C:/Users/akshay.nayak/Desktop/OOP with Java/Algorithmic Toolbox/DLN21OuLEemBTxKimVccnA_b1666eb3c8504f3fa940692383f37a60_course1_1910102010/week2_algorithmic_warmup/4_least_common_multiple/LCM.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
